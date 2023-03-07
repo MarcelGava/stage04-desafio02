@@ -1,7 +1,7 @@
 # stage04-desafio02
 
 <p align="center">
-Primerio desafio desenvolvido no Stage 04 do Explorer na Rocketseat<br/>
+Segundo desafio desenvolvido no Stage 04 do Explorer na Rocketseat<br/>
 
 
 ## 🚀 Tecnologias
